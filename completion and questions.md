@@ -1,4 +1,4 @@
-#WHAT HAS BEEN LEARNT
+#WHAT HAS BEEN LEARNT
 
 - [x]  how to use github to track changes
 - [x]  commits
@@ -9,4 +9,10 @@
 
 ## Which questions arise
 
-- [ ]tracking and solving issues as a team
+- [] tracking and solving issues as a team
+
+
+
+:EMOJICODE:.
+
+@octocat :+1: It is understood ! :shipit:
